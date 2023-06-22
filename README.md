@@ -11,6 +11,14 @@ This is *not* something you are going to finish up in 2 hours. In fact, it somet
 
 Take your time to plan out some wireframes and think of how you want to style your site
 
+### Steps
+
+- Create a new repo in your personal github account
+- Create a Component Hierarchy Diagram and a Wireframe design of how you'd like your Portfolio to look and operate
+- Create the basic skeleton of your React App and necessary Components
+- Populate your components with necessary data
+- Deploy and share with family and friends!
+
 
 ### Requirements
 
