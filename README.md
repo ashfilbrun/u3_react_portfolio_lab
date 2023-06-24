@@ -27,3 +27,12 @@ There is no standard way to build up a Portfolio, but we'd *highly* recommend ha
 We want you to take your time on this and not rush something so important. Having this "complete" will not be required as a deliverable for homework, we just want to see the initial set up, plus your prep and wireframes. 
 
 A professional, beautiful, and deployed Portfolio is going to be required to complete Outcomes at the end of the course, and for your job search process, so take your time in planning and building up what you want to do, take the time now to get the first steps set, and create something you can really show off and be proud of!
+
+
+## Portfolio
+
+## Technologies Used
+ - Figma https://www.figma.com/file/ag4HJ1S0GEF5dOIrYZSfz6/Untitled?type=whiteboard&node-id=0%3A1&t=yChVvOtUYvSFyuzc-1
+
+
+## Attributions
