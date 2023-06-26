@@ -1,5 +1,8 @@
+import React from 'react'
+
 const Portfolio = () => {
   return (
+    <div>
     <div className="header">
       <div className="greeting">
         <h1>Hello!</h1>
@@ -16,5 +19,8 @@ const Portfolio = () => {
       <div>Resumé</div>
       <div>About Me</div>
     </span>
+  </div>
   )
 }
+
+export default Portfolio
