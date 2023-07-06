@@ -1,20 +1,19 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import Portfolio from './components/portfolio'
+import { React, useState } from 'react'
+import Main from './components/Main'
 import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-    <Portfolio />
-    <Resume />
-    <About />
-    <Contact />
-    </>
+    <div>
+      <Main />
+    </div>
   )
 }
 
 export default App
+
+//ADD GOOGLE ANALYTICS TO THIS SITE
+
+//USE LIGHTHOUSE TEST 
