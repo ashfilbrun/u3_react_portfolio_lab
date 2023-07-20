@@ -11,7 +11,6 @@ export default function Nav () {
           <span className="nav-menu">
             <ul>
               {/* <li><a href="/Resume">Resumé</a></li>
-              <li><a href="/Bio">Bio</a></li>
               <li><a href="/SkillsList">Skills</a></li>
               <li><a href="/Projects">Projects</a></li>
               <li><a href="/AboutMe">About Me</a></li>
